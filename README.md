@@ -20,3 +20,6 @@ Explore o espaço com o Python e o Visual Studio Code; inspirado pelo filme da N
 
 # Realize o projeto você também 
 [Clicando aqui](https://learn.microsoft.com/api/achievements/share/pt-br/MarciaPintoBarcelo-0107/N73TV94F?sharingId=B1854C25EB1F0970)
+
+
+💜 Obrigada por visitar meu repositório!
